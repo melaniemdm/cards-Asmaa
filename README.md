@@ -1,2 +1,6 @@
 # cards-Asmaa
-creatiion de cards pour une association de protection animale
+creation de cards pour une association de protection animale
+
+#Outils
+- vscode
+- framwork css Tailwind
