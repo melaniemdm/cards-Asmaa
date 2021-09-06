@@ -32,4 +32,25 @@ h1 {
 #caracteristiques {
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+
+#appartement {
+  grid-row: 1/span 2;
+  grid-column-start: 1;
+}
+
+#titleNousContacter {
+  margin: 10px;
+}
+
+#separator {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  color: #0e0eb8;
+}
+
+#logoNet {
+  margin-top: 10px;
+  font-size: 25px;
 }/*# sourceMappingURL=style.css.map */
