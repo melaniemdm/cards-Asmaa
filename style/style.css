@@ -1,0 +1,35 @@
+#cardsAdoption {
+  margin-top: 30px;
+}
+
+#chats {
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#iconMale {
+  color: white;
+  font-size: 40px;
+}
+
+#histoire {
+  font-size: 12px;
+}
+
+#pateGrise, #pateGrise2, #pateGrise3 {
+  color: grey;
+}
+
+.fa-paw {
+  color: #0e0eb8;
+}
+
+h1 {
+  line-height: 2.5;
+}
+
+#caracteristiques {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}/*# sourceMappingURL=style.css.map */
